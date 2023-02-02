@@ -37,7 +37,6 @@ if( city === 'Київ' ) {
     alert( anotherCity )  
 }
 
-
 let sport = prompt('Ваш улюблений вид спорту?');
 let box = 'Александром Усиком';
 let volleyball = 'Симоне Джаннелли';
